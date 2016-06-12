@@ -1,0 +1,9 @@
+*.DS_Store
+*.swp
+*.swo
+*.out
+
+
+#directory only for some IDEs
+/project/
+/.vscode/
