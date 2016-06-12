@@ -5,5 +5,5 @@
 
 
 #directory only for some IDEs
-/project/
-/.vscode/
+project/*
+.vscode/*
